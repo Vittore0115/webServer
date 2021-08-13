@@ -1,0 +1,26 @@
+{
+  "name": "mini-webserver",
+  "version": "1.0.0",
+  "description": "mini webServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vittore0115/webServer.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "zwt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vittore0115/webServer/issues"
+  },
+  "homepage": "https://github.com/Vittore0115/webServer#readme",
+	"dependencies":{
+		"mime": "^2.5.2"
+	}
+}
