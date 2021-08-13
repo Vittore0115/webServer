@@ -20,7 +20,7 @@
     "url": "https://github.com/Vittore0115/webServer/issues"
   },
   "homepage": "https://github.com/Vittore0115/webServer#readme",
-	"dependencies":{
-		"mime": "^2.5.2"
-	}
+  "dependencies": {
+    "mime": "^2.5.2"
+  }
 }
