@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vittore0115/webServer.git"
+    "url": "git+https://github.com/vittorezhang/webServer.git"
   },
   "keywords": [
     "node",
@@ -17,9 +17,9 @@
   "author": "zwt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vittore0115/webServer/issues"
+    "url": "https://github.com/vittorezhang/webServer/issues"
   },
-  "homepage": "https://github.com/Vittore0115/webServer#readme",
+  "homepage": "https://github.com/vittorezhang/webServer#readme",
 	"dependencies":{
 		"mime": "^2.5.2"
 	}
