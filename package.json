@@ -4,7 +4,8 @@
   "description": "mini webServer",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "webpack --display-error-details --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,9 @@
     "url": "https://github.com/vittorezhang/webServer/issues"
   },
   "homepage": "https://github.com/vittorezhang/webServer#readme",
-	"dependencies":{
-		"mime": "^2.5.2"
-	}
+  "dependencies": {
+    "mime": "^2.5.2",
+    "webpack": "^3.9.1",
+    "webpack-dev-server": "^2.9.5"
+  }
 }
